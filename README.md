@@ -1,5 +1,5 @@
 # UntitledFruitGame
-## Assets for the untitled fruit game (still in development lol)
+## Fruit inspired sprites for any fruit-related game.
 This repo contains all of the sprites (background, GUI elements, and all game assets) for our (still untitled) fruit game.
 
 ### Now, enjoy a random dragonfruit spritesheet!
